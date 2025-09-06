@@ -1,5 +1,5 @@
 # koha-testing-docker---command-cheat-sheet
-koha related cheat sheet
+koha related cheat sheet derived from David Nind's gitlab snippet: https://gitlab.com/-/snippets/1893788
 
 NOTE: To be read in conjunction with the KTD README
 
